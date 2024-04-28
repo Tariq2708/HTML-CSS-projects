@@ -1,0 +1,5 @@
+{
+  "rewrites" : [
+pakage-lockson
+{"source": "/(.*)", "destination": "/"} ]
+}
